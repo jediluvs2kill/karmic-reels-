@@ -1,0 +1,8 @@
+{
+  "name": "WeBroker Reels",
+  "description": "Discover & pin property deals visually, start instant broker chats, browse immersive real estate reels, and get personalized AI property matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
